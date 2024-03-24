@@ -1,4 +1,6 @@
-# anyalysis-of-indian-startup
+# Anyalysis-of-indian-startup
+
+# Project Description
 We embark on a journey of discovery as we leverage our data analysis expertise to uncover the untapped potential within the Indian startup ecosystem. This project is designed to not only decode the numbers but to distill insights that will guide our team towards a successful foray into this dynamic market
 
 # Introduction
@@ -32,3 +34,25 @@ Visualisations were generated via python and Power BI
 Recommendation were provided concerning the funding of the indian start-up .
 
 # Recommendation
+Recommendations
+1. Location Consideration:
+
+Investors should focus on top-funded locations like Mumbai, Shanghai, San Francisco, Kalpakkan, and Beijing.
+Sector-Specific Investments:
+
+Explore opportunities in fintech and retail, the most attractive sectors for investors.
+
+2. Emerging Trends:
+
+Monitor trends in mature startups in the 'Others' category, signaling investor comfort with later-stage ventures.
+
+3. Diversification:
+
+Diversify portfolios across locations and sectors for a balanced risk-return profile.
+
+# License
+This work is licensed by MIT 
+This work is for educational purposes
+
+# Author
+Joy Koech

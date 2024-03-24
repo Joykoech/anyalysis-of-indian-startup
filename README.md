@@ -16,3 +16,11 @@ H0 : There is no significant relationship between funding and the sector
 H1 : There is a significant relationship between funding and the sector
 
 .**Questions**
+Analytical Questions
+1. How has funding trends evolved between 2018 and 2021?
+2. What is the relationship between the amount of funding and the stage of the company?
+3. How does funding vary with the location of the start-ups
+4. What are the most attractive sectors for investors?
+5. Does the location of the company influence its sector
+
+# Methodology

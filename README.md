@@ -24,3 +24,11 @@ Analytical Questions
 5. Does the location of the company influence its sector
 
 # Methodology
+Necessary packages were installed for data manipulation and cleaning  numpy and Pandas and for visualization seaborn,matplotlib in the virtual envrionment created in the vs code.
+
+The 2018-2019 data sets were loaded via the sql connector and 2020 and 2021 data were loaded directly into the vs code .After performing E.D.A on each of the dataset,they were concatinated and saved in a csv file.
+The concatinated dataset was then cleaned column by column according to the needs of the hypothesis and the analytical questions above.
+Visualisations were generated via python and Power BI 
+Recommendation were provided concerning the funding of the indian start-up .
+
+# Recommendation

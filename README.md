@@ -11,3 +11,8 @@ The datasets were then concatenated,cleaned and then analysed as per the hypothe
 
 # Hypothesis and Questions
 .**Hypothesis**
+H0 : There is no significant relationship between funding and the sector
+
+H1 : There is a significant relationship between funding and the sector
+
+.**Questions**
